@@ -1,5 +1,8 @@
 import React from "react";
 
+import "@fontsource/manrope"; 
+
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; // Import FontAwesomeIcon
 
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
@@ -24,7 +27,7 @@ function HeaderTop() {
             />
             <Link
               to="mailto:interestingprema@gmail.com "
-              classname="text-[#ffffffb3]   size-[18px] "
+              classname="text-[#ffffffb3]  size-[18px] "
             >
               sigmafarmersmarket@gmail.com
             </Link>

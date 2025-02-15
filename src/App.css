@@ -7,6 +7,9 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
+  
+
+
 /* To hide shadow on mobile */
 @media (max-width: 640px) {
     .shadow-custom, .shadow-custom-hover {

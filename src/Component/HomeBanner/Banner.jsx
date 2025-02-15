@@ -46,24 +46,24 @@ function Banner() {
           />
 
           {/* Text Content  */}
-           <div className="absolute top-[22%] sm:ml-[335px] px-5 w-full  text-white font-manrope z-20">
+           <div className="absolute  top-[22%]  lg:ml-[330px] px-5 w-full  text-white font-manrope z-20">
             <h1
               className="
-              text-[28px] md:text-[40px] lg:text-[40px] sm:font-[800] "
+              text-[28px] md:text-[40px] font-manrope font-semibold lg:font-semibold lg:text-[40px]  "
               data-aos="zoom-in"
             >
               Farm Fresh Organic Produce
             </h1>
-            <div className="flex gap-2 items-center py-4" data-aos="fade-up">
-              <div className="w-[5px] h-[29px] bg-[#c6df3d]"></div>
-              <p className="text-[18px] font-[400]" data-aos="zoom-in">
+            <div className="flex  gap-2 items-center py-4 " data-aos="fade-up">
+              <div className="w-[5px] h-[29px] bg-[#c6df3d]  "></div>
+              <p className="text-[18px] font-[400] font-manrope   " data-aos="zoom-in">
                 Delivered at your doorstep
               </p>
             </div>
             <div className="flex gap-1 py-4" data-aos="fade-right">
-              <Buttons Content="Shop Now" classNames="h-[47px] w-[150px] "/>
+              <Buttons Content="Shop Now" classNames="h-[47px] w-[150px]"/>
             </div>
-          </div>
+          </div> 
         </div>
 
         {/* Image 2 */}
@@ -79,16 +79,16 @@ function Banner() {
           />
 
           {/* Text Content */}
-          <div className="absolute top-[27%] ml-[348px] w-full text-white font-manrope z-20">
+          <div className="absolute top-[22%] sm:top-[22%]  lg:ml-[330px] px-5 w-full text-white font-manrope z-20">
             <h1
-              className="sm:text-[50px] md:text-[40px] lg:text-[40px] font-bold"
+              className="block text-[28px]   md:text-[40px]  lg:text-[40px] lg:font-semibold font-semibold  font-manrope"
               data-aos="zoom-in"
             >
               Farm Life Experience at its Best
             </h1>
             <div className="flex gap-3 items-center py-4" data-aos="fade-up">
               <div className="w-[5px] h-[32px] bg-[#c6df3d]"></div>
-              <p className="text-[18px] font-[400]" data-aos="zoom-in">
+              <p className="text-[18px] font-[400] font-manrope flex " data-aos="zoom-in">
                 Schedule a visit with your loved one
               </p>
             </div>
@@ -97,12 +97,12 @@ function Banner() {
                 Content="Visit"
                 classNames="h-[47px] w-[100px] rounded-lg font-medium text-[17px]  rounded-md bg-[#c6df3d] text-[14px]  hover:bg-black hover:text-white shadow-md focus:ring-2   focus:outline-none focus:ring-opacity-100"
               />
-              <div className="flex items-center gap-2">
+              <div className= "flex items-center gap-2 ">
                 <Link
                   to=""
-                  className="fas fa-play-circle text-[35px] hover:text-[#c6df3d] hover:bg-black  font-medium text-white"
+                  className="fas fa-play-circle text-[35px] hover:text-[#c6df3d]  font-medium text-white"
                 ></Link>
-                <span className="font-dancing-script text-[24px] font-medium normal-case text-white">
+                <span className="font-dancing-script font-manrope text-[24px] font-medium normal-case text-white hover:text-[#c6df3d]">
                   Watch Now
                 </span>
               </div>
@@ -110,7 +110,7 @@ function Banner() {
           </div>
         </div>
         {/* img3 */}
-        <div className="relative w-full h-[500px] rounded-lg overflow-hidden">
+        <div className="relative w-full h-[500px]  rounded-lg overflow-hidden">
           {/* Gradient Overlay */}
           <div className="absolute inset-0 before:content-[''] before:absolute before:inset-0 before:bg-gradient-to-b before:from-[rgba(34,34,34,0.75)] before:to-[rgba(34,34,34,0.45)] before:z-10 rounded-lg"></div>
 
@@ -122,16 +122,16 @@ function Banner() {
           />
 
           {/* Text Content */}
-          <div className="absolute top-[27%] ml-[348px] w-full text-white font-manrope z-20">
+          <div className="absolute top-[22%]   px-5  lg:ml-[330px] w-full text-white font-manrope z-20">
             <h1
-              className="sm:text-[50px] md:text-[40px] lg:text-[40px] font-bold"
+              className="text-[28px] md:text-[40px] lg:text-[40px] font:semi-bold lg:font-semibold font-manrope"
               data-aos="zoom-in"
             >
               Partner to sell, if you are buying
             </h1>
             <div className="flex gap-3 items-center py-4" data-aos="fade-up">
               <div className="w-[5px] h-[29px] bg-[#c6df3d]"></div>
-              <p className="text-[18px] font-[400]" data-aos="zoom-in">
+              <p className="text-[18px] font-[400] font-manrope" data-aos="zoom-in">
                 Enjoying smoking recipes from fresh produce
               </p>
             </div>
@@ -157,9 +157,9 @@ function Banner() {
           />
 
           {/* Text Content */}
-          <div className="absolute top-[10%] ml-[348px] w-full text-white font-manrope z-20">
+          <div className="absolute px-5 top-[15%]  lg:ml-[330px] w-full text-white font-manrope z-20">
             <h1
-              className="sm:text-[50px] md:text-[40px] lg:text-[40px] font-semibold"
+              className="text-[28px] md:text-[40px] lg:text-[40px] lg:font-semibold font-semibold"
               data-aos="zoom-in"
             >
               Partner to buy, if you are a
@@ -173,7 +173,7 @@ function Banner() {
               "Hotels/Cloud Kitchens",
             ].map((item, index) => (
               <div
-                className="flex gap-2 items-center py-4"
+                className="flex gap-2 items-center py-3"
                 data-aos="fade-up"
                 key={index}
               >
@@ -185,7 +185,7 @@ function Banner() {
             ))}
 
             {/* Sign-Up Button */}
-            <div className="flex gap-1 py-3" data-aos="fade-right">
+            <div className="flex gap-1 py-2" data-aos="fade-right">
               <Buttons Content="Sign Up" classNames="h-[47px] w-[150px]  rounded-md bg-[#c6df3d] text-[14px] hover:bg-black-700 hover:text-white shadow-md focus:ring-2   focus:outline-none focus:ring-opacity-100" />
             </div>
           </div>
@@ -204,9 +204,9 @@ function Banner() {
           />
 
           {/* Text Content */}
-          <div className="absolute top-[27%] ml-[348px] w-full text-white font-manrope z-20">
+          <div className="absolute top-[22%] px-5 lg:ml-[330px] w-full text-white font-manrope z-20">
             <h1
-              className="sm:text-[50px] md:text-[40px] lg:text-[40px] font-semibold"
+              className="text-[28px] md:text-[40px] lg:text-[40px] lg:font-semibold font-semibold"
               data-aos="zoom-in"
             >
               Partner to sell, if you are a
@@ -234,6 +234,7 @@ function Banner() {
         </div>
       </Slider>
     </section>
+    
   );
 }
 
