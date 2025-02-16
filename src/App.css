@@ -7,7 +7,11 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-  
+  .MaxWidth{
+    max-width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 
 /* To hide shadow on mobile */
@@ -16,3 +20,52 @@
         box-shadow: none;
     }
 }
+
+  .fade-right {
+    animation: fadeInRight 1.0s forwards;
+  }
+  
+  .fade-up {
+    animation: fadeInUp 1.5s forwards;
+  }
+  
+  
+  .zoom-out {
+    animation: zoomOut 1.5s forwards;
+  }
+  
+ 
+  @keyframes fadeInRight {
+    from {
+      opacity: 0;
+      transform: translateX(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  
+  @keyframes zoomOut {
+    from {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1.0);
+    }
+  }
+  
