@@ -1,0 +1,1184 @@
+@media (max-width:1440px) {
+    h1 span.buy-ban {
+        font-size: 40px;
+    }
+
+    span.ban-last-img img {
+        width: 60px !important;
+        height: unset !important;
+    }
+
+    .pop-form .gform_wrapper.gravity-theme .gfield_label {
+
+        font-size: 14px !important;
+    }
+
+    .banner-content h1 {
+        color: #fff;
+        font-size: calc(80px - 40px);
+    }
+
+    footer .inn-ger-touch p,
+    footer ul li {
+
+        font-size: 14px;
+    }
+
+    footer h4 {
+
+        font-size: 20px;
+    }
+
+    h2.title {
+        font-size: unset !important;
+    }
+
+    p.gallery-cont {
+        line-height: 30px;
+        font-size: 16px !important;
+        font-weight: 400 !important;
+    }
+
+    section#farm-visit-wrapper p {
+        line-height: 25px;
+        font-size: 14px !important;
+        /* font-weight: 400 !important; */
+    }
+
+    section#work-shop-wrap p {
+        line-height: 30px;
+        font-size: 16px;
+        font-weight: 600;
+        letter-spacing: .25px;
+    }
+
+    section#work-shop-wrap .farm-cont-1 {
+        margin-top: -120px;
+    }
+
+    .banner-content h1,
+    .banner-cont-inn h1 {
+        font-size: calc(80px - 40px);
+    }
+
+    .banner-content p {
+        font-size: 16px;
+    }
+
+    /* .banner-content h1 {
+color: #fff;
+font-size: calc(80px - 30px);
+} */
+
+    .have-inn h3,
+    .need-inn h3 {
+        color: #fff;
+        font-family: "Handlee", Sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: 1px;
+        width: 70%;
+        height: 100px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        margin: 0;
+        height: 70px;
+    }
+
+    .cont-lat-in h4 a {
+        color: #2c2c2c;
+        font-weight: 700;
+        padding: 1rem 0;
+        font-size: 20px;
+        margin: 10px 0 20px;
+        -ms-word-wrap: break-word;
+        word-wrap: break-word;
+        line-height: 30px;
+        position: relative;
+    }
+
+    section#work-shop-wrap p,
+    section#farm-visit-wrapper p {
+        line-height: 26px;
+        font-size: 18px;
+        font-weight: 600;
+        letter-spacing: .25px;
+    }
+
+    .need-have-wrap {
+
+        top: -80px;
+    }
+}
+
+@media (max-width:1200px) {
+
+    h2.title {
+        font-size: 30px !important;
+    }
+
+    section#farm-cafe-wrap h2,
+    section#work-shop-wrap h2,
+    section#farm-visit-wrapper h2 {
+        color: #EB8921 !important;
+        font-size: 20px !important;
+    }
+
+    .goal-inn h3 {
+
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: calc(1.325rem + .9vw) !important;
+    }
+
+    .banner-cont-inn {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+    }
+
+    .banner-content h1,
+    .banner-cont-inn h1 {
+        font-size: calc(80px - 40px) !important;
+
+    }
+
+    .client-sec {
+        width: unset;
+    }
+
+}
+
+@media (max-width:1024px) {
+
+    .banner-content {
+        position: absolute;
+        /* top: 50% !important;
+        left: 50% !important; */
+        width: 100%;
+        transform: translate(-50%, -50%);
+    }
+
+    section#work-shop-wrap p,
+    section#farm-visit-wrapper p {
+        line-height: 28px;
+        font-size: 18px;
+        font-weight: 600;
+        letter-spacing: .25px;
+    }
+
+    .need-inn {
+        margin-bottom: 2rem;
+    }
+
+    #comp-sta-wrap {
+        padding-bottom: 60px;
+    }
+
+    .have-inn h3,
+    .need-inn h3 {
+        margin: 0;
+        height: 100px;
+        width: 100%;
+    }
+
+    .inner-we-cont {
+        padding: 0 !important;
+    }
+
+    .call-qoute {
+        display: none;
+    }
+
+    aside.col-lg-6.abt-we-cont {
+        margin-top: 2rem !important;
+    }
+
+    aside.col-lg-4.abt-we-img {
+        margin-top: 2rem;
+    }
+
+    .menu-box {
+        justify-content: flex-end;
+    }
+
+    #access {
+        display: none !important;
+    }
+
+    #mob-menu-container {
+        display: block !important;
+    }
+
+    #home-banner .swiper-slide img {
+        width: 100%;
+        height: 500px;
+    }
+
+
+
+
+    aside.col-md-2.logo img {
+        position: unset !important;
+        height: 90px !important;
+        width: 120px !important;
+        padding: 7px 0 !important;
+        border-radius: 8px;
+        margin: unset !important;
+        box-shadow: none !important;
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        -ms-border-radius: 8px;
+        -o-border-radius: 8px;
+    }
+
+    .inn-cal-q {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    a.call-no,
+    #access a {
+        font-size: 14px;
+    }
+
+    .header {
+        height: unset;
+    }
+
+    .logo {
+        text-align: left;
+    }
+}
+
+@media (max-width: 1300px) {
+
+    .banner-content h1,
+    .banner-cont-inn h1 {
+        font-size: calc(100px - 40px);
+
+    }
+
+    a.call-no,
+    #access a {
+        font-size: 16px;
+    }
+
+    section#healthy-food-wrap a.btn.btn-get,
+    a.btn-lat,
+    a.btn.btn-get {
+
+        padding: 12px 24px;
+        line-height: 22px;
+    }
+}
+
+@media (max-width:1024px) {
+
+    aside.col-lg-6.dir-left-white {
+
+        width: 100% !important;
+    }
+}
+
+@media (max-width:992px) {
+
+    .goddess-green {
+        padding-top: 0;
+    }
+
+    /* .banner-content h1 {
+
+        text-align: center;
+    } */
+
+    .healthy-sec {
+        margin-top: 200px;
+    }
+
+    .globe-partner {
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+    }
+
+    .contact-form {
+        /* background: #C6DF3D; */
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0px 1px 3px 0px #888;
+        margin-top: 0;
+        text-align: left;
+    }
+
+    section#content-com-wrap .map-location {
+        background: url(https://www.sigmafarmersmarket.com/wp-content/uploads/2024/02/farm-banner.jpg) no-repeat;
+        background-size: cover;
+        padding: 60px;
+        height: 800px;
+        background-position-x: center;
+    }
+
+    section#farm-visit-wrapper .map-location {
+        background: url(https://www.sigmafarmersmarket.com/wp-content/uploads/2024/02/farm-banner.jpg) no-repeat;
+        background-size: cover;
+        padding: 10px;
+        /* height: 800px; */
+        background-position-x: center;
+        display: flex;
+        align-items: center;
+    }
+
+    .inner-cont-form {
+        padding: 0 15px;
+    }
+}
+
+@media (max-width:769px) {
+	
+	.banner-img.banner-img-spl img {
+    object-fit: cover;
+    object-position: right;
+}
+
+    .cont-lat-in h4 a span {
+        font-size: 16px;
+    }
+
+    section#home-banner .swiper-slide-active .banner-last h1 {
+
+        text-align: center !important;
+    }
+
+    .ban-btn.ban-btn-last {
+        display: flex;
+        flex-direction: row !important;
+    }
+
+    .content-healthy p {
+        padding: 10px 30px;
+        line-height: 28px;
+        font-size: 16px;
+        height: unset !important;
+    }
+
+    .inn-ger-touch p {
+        display: flex;
+        margin-bottom: 2rem;
+        /* font-size: 20px; */
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    footer .inn-ger-touch p {
+        display: flex;
+
+        font-size: 14px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .spl-item-inner {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .spl-item-inner {
+        padding: 1rem;
+    }
+
+    .spl-item-inner p {
+
+        font-size: 15px;
+        line-height: 26px;
+        height: 50px;
+    }
+
+    .abtweSwiper {
+        display: none !important;
+    }
+
+    section#banner-wrap {
+        position: relative;
+        padding-top: 160px;
+    }
+
+    .header {
+        margin-top: 70px;
+    }
+
+    .desk-recent-blogs {
+        display: none !important;
+
+    }
+
+    .mob-recent-blogs {
+        display: block !important;
+
+    }
+
+    .mob-shop a.btn.btn-get {
+        padding: 8px 15px !important;
+        color: #000 !important;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .mob-shop a.btn.btn-get i {
+        padding: 0 !important;
+        font-size: 14px !important;
+    }
+
+    .mobile-ht a.call-no {
+        padding: 0 !important;
+    }
+
+    aside.col-lg-6.col-6.mobile-shop {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+
+    a.call-no {
+        margin: 0;
+    }
+
+    .mobile-ht {
+        display: block !important;
+    }
+
+    .desktop-ht {
+        display: none !important;
+    }
+
+    section#home-banner .banner-cont-inn p {
+        font-size: 16px !important;
+    }
+
+    section#home-banner h1,
+    section#home-banner .banner-cont-inn .ban-btn,
+    section#home-banner .banner-cont-inn p {
+        left: unset !important;
+    }
+
+    .banner-content h1,
+    h1 span.buy-ban,
+    .banner-cont-inn h1 {
+        font-size: calc(60px - 20px) !important;
+    }
+
+    aside.col-lg-6.dir-right-img div#map-location {
+        background: linear-gradient(-180deg, rgb(34 34 34 / 61%) 0%, rgb(34 34 34 / 36%) 100%),
+            url(https://www.sigmafarmersmarket.com/wp-content/uploads/2024/02/close-up-delicious-organic-cabbage_11zon.jpg) no-repeat fixed;
+        background-size: cover;
+        padding: 30px;
+        background-position-y: center;
+        height: 850px;
+        width: 100%;
+        display: flex;
+        background-position-x: center;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+    }
+
+    p.gallery-cont,
+    section#farm-cafe-wrap p,
+    section#work-shop-wrap p,
+    section#farm-visit-wrapper p {
+        line-height: 30px;
+            text-align: justify;
+        font-size: 15px !important;
+        font-weight: 600;
+        letter-spacing: .25px;
+    }
+
+    span.inn-addres {
+        font-size: 16px !important;
+
+    }
+
+    aside.col-lg-6.dir-right-img div#map-location h2 {
+
+        font-size: 25px !important;
+
+    }
+
+    .goal-inn h3 span {
+        font-size: 0.7rem;
+    }
+
+    .project-title h4 {
+
+        font-size: 18px;
+        font-weight: bold;
+
+    }
+
+    .inn-map-loc {
+        padding: 1rem;
+    }
+
+    .intractive-form {
+        margin-left: 0% !important;
+    }
+
+    .cafe-right-img img,
+    aside.col-md-6.farm-left-img img {
+
+        margin-top: 2rem;
+    }
+
+    .inner-head-cont a.mail {
+        margin-bottom: 1rem;
+    }
+
+    .farm-cont-1 {
+        text-align: center;
+        background: #C6DF3D;
+        padding: 2rem;
+        margin-top: -130px;
+        box-shadow: 0px 1px 3px 0px #88889926;
+    }
+
+    .goal-inn h3 {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .goal-inn p {
+        color: #fff;
+        font-weight: 400;
+        font-size: 16px;
+
+        margin: 0;
+    }
+
+    footer .inn-ger-touch p,
+    .inn-ger-touch p {
+
+        font-size: 14px;
+    }
+
+    section#banner-wrap img {
+        height: 500px;
+        object-fit: cover;
+        object-position: center;
+    }
+
+    aside.col-lg-6.col-md-6.head-cont {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    footer {
+        background: #1f1e17;
+        padding: 60px 15px 0;
+        color: #fff;
+    }
+
+    .abt-mobile {
+        display: block !important;
+    }
+
+    section#about-we-wrap .abtweSwiper {
+        display: none !important;
+    }
+
+    .follow-on {
+        margin: 2rem 0;
+    }
+
+    section#latest-news-wrap,
+    section#project-gallery-wrap {
+        padding: 60px 0;
+    }
+
+    section#project-gallery-wrap {
+        padding-bottom: 60px;
+    }
+
+    .client-sec {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .global-partner .container {
+        padding: 0 !important;
+    }
+
+    section#healthy-food-wrap a.btn.btn-get,
+    a.btn-lat,
+    a.btn.btn-get {
+        padding: 10px 18px;
+        line-height: 22px;
+        font-size: 14px;
+    }
+
+    .need-have-wrap {
+        top: -80px;
+    }
+
+    .have-inn,
+    .need-inn {
+        padding: 1rem;
+    }
+
+    .have-inn h3,
+    .need-inn h3 {
+
+        font-size: 20px;
+        font-weight: 600;
+        letter-spacing: 0.5px;
+        margin: 0;
+    }
+
+    .img-abt-1 p {
+        padding: 22px !important;
+        border-radius: 30px;
+        margin-top: 1rem;
+        font-size: 16px !important;
+        line-height: 25px !important;
+        bottom: 0;
+        left: 20% !important;
+        transform: translate(-20%, 0) !important;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+        -webkit-transform: translate(-20%, 0);
+        -moz-transform: translate(-20%, 0);
+        -ms-transform: translate(-20%, 0);
+        -o-transform: translate(-20%, 0);
+    }
+
+    #comp-sta-wrap {
+        padding: 0 10px 60px 10px;
+    }
+
+    section#about-we-wrap {
+        padding: 60px 10px;
+    }
+
+    .img-abt-1 p {
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 35px;
+    }
+    .work-wid-mob,
+    .banner-cont-inn {
+        padding: 0 2rem;
+        width: 100%;
+    }
+
+    .inner-we-img img {
+        border-radius: 16px;
+        height: unset !important;
+        object-fit: contain;
+    }
+
+    .inner-head-cont {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 1rem 0;
+    }
+
+    a.addres {
+        margin-bottom: 12px;
+    }
+
+    #header-top .head-social {
+        padding: 0 0 1rem 0;
+        justify-content: center;
+    }
+
+    .container-fluid {
+        width: 100% !important;
+    }
+
+    .service-feed-foot {
+        display: flex;
+        justify-content: flex-start;
+        flex-direction: column;
+    }
+
+    .testimonial-quote {
+        font-size: 18px;
+    }
+
+    section#farm-contact-wrap div#map-location {
+
+        padding: 0 !important;
+    }
+
+    div#map-location h2 {
+        color: #2c2c2c !important;
+        font-size: 23px !important;
+        text-align: center;
+        padding: 0.5rem;
+    }
+
+    aside.col-lg-12.loc-map {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev,
+    .healthySwiper .swiper-button-next,
+    .healthySwiper .swiper-button-prev {
+        text-transform: none !important;
+        color: #2c2c2c;
+        font-weight: 600;
+        padding: 14px;
+        border-radius: 8px;
+        opacity: 1;
+        width: 20px;
+        height: 36px;
+        line-height: 46px;
+    }
+
+    .swiper-button-next:hover,
+    .swiper-button-prev:hover,
+    .healthySwiper .swiper-button-next:hover,
+    .healthySwiper .swiper-button-prev:hover {
+        background: #C6DF3D;
+    }
+
+    .latestSwiper .swiper-button-next:after,
+    .latestSwiper .swiper-button-prev:after,
+    .healthySwiper .swiper-button-next:after,
+    .healthySwiper .swiper-button-prev:after {
+        font-family: swiper-icons;
+        font-size: 14px !important;
+    }
+
+    video {
+        width: 100%;
+        max-width: 100%;
+        height: 500px;
+        object-fit: cover;
+    }
+
+    /* .banner-content p {
+        text-align: center !important;
+    } */
+
+    .farm-cont-2 {
+        margin: 60px 15px;
+    }
+
+    aside.col-lg-6.dir-right-img div#map-location-cafe {
+        background-size: cover;
+        padding: 60px 0;
+        background-position-y: center;
+        height: 650px;
+        width: 100%;
+        display: flex;
+        background-position-x: center;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
+    }
+
+    .col-md-4.next-blog .content-latest,
+    .col-md-4.next-blog .latest-img img {
+        width: unset;
+    }
+
+    section#organic-con-wrapper .farm-cont-1.aos-init.aos-animate p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    section.organic-conven {
+        padding: 40px 15px;
+    }
+
+    section#project-inner-wrap .nav-tabs .nav-link {
+        width: 50%;
+        font-size: 16px;
+        text-transform: capitalize;
+    }
+
+    section#home-banner {
+        padding-top: 160px;
+    }
+
+    .desktop-view-blog {
+        display: none !important;
+    }
+
+    .mobile-view-blog {
+        display: block !important;
+    }
+
+    .ban-btn.ban-btn-last {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .su-tabs-mobile-stack .su-tabs-nav span {
+        display: block;
+        width: 100% !important;
+    }
+
+    aside.col-md-6.form-left.px-0 {
+
+        margin-bottom: 2rem;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .banner-content h1 span {
+        font-size: 20px;
+    }
+    .col-md-4.next-blog .latest-box-item:last-child {
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width:525px) {
+
+    #farm-careers-wrap .farm-cont-1 .mb-2 h2{
+        font-size: calc(1.325rem - .9vw) !important;
+        margin-bottom: .5rem !important;
+        text-align: left !important;
+    }
+    .foot-logo img {
+        border-radius: 10px;
+        width: 152px;
+    }
+    div#ui-datepicker-div {
+        left: 16px !important;
+      
+    }
+    .inner-creamy-wrap h2,
+    .inner-susutain-cont h2 {
+        font-size: 22px !important;
+        line-height: 28px;
+    }
+    .col-md-8.cont-blog h2.mx-0 {
+        font-size: 22px !important;
+    }
+    h2.title.py-2 {
+        line-height: 25px;
+    }
+    h2.title.py-2 b {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    section.organic-conven h4 {
+        font-weight: bold;
+        color: #1a1a1a;
+        font-size: 19px;
+    }
+
+    .gravity-theme.ui-datepicker .ui-datepicker-title {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        width: 100% !important;
+      }
+      .inner-careers h4 {
+        margin-bottom: 2rem;
+        line-height: 30px;
+        font-size: 18px;
+    }
+    .gravity-theme.ui-datepicker {
+        max-width: 355px !important;
+    }
+
+    section#home-banner .swiper-slide-active h1 {
+      
+        padding: 1rem 0 0 !important;
+    }
+
+    section#blog-wrapper .banner-content h1 span {
+        font-size: 20px !important;
+      }
+
+    p,
+    li,
+    aside.col-md-6.farm-left-cont p {
+        font-size: 15px !important;
+    }
+
+    aside.col-lg-6.dir-right-img div#map-location {
+        height: 650px !important;
+    }
+
+    p.form-para {
+        font-size: 18px;
+        font-weight: 700;
+        padding: 5px 0;
+        line-height: 27px;
+    }
+
+    .ban-btn.ban-btn-last {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    section#home-banner .banner-cont-inn .ban-btn,
+    section#home-banner .banner-cont-inn p {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+
+    }
+
+    .ui-datepicker table,
+    .ui-datepicker-header.ui-widget-header.ui-helper-clearfix.ui-corner-all {
+
+        width: 310px !important;
+
+    }
+
+    .contact-form {
+        padding: 1rem;
+    }
+
+    a.btn-wat {
+        margin-left: 0 !important;
+        margin-top: 1.5rem;
+    }
+
+    section.popular-service.py-5.my-4 {
+        margin: 0 15px !important;
+    }
+
+    aside.col-lg-6.part-we-img {
+        margin-top: 2rem;
+    }
+
+    #header-top {
+        padding: 10px 0;
+        position: fixed;
+        width: 100%;
+        z-index: 999;
+    }
+
+    #header-top a i {
+        font-size: 14px;
+        padding-right: 7px;
+    }
+
+    #header-top a {
+        font-size: 13px;
+    }
+
+    .mob-shop a.btn.btn-get {
+        padding: 6px 15px !important;
+
+    }
+
+    section#creamy-recipes-wrap h2 {
+        font-size: 20px !IMPORTANT;
+        margin-bottom: 1rem;
+        line-height: 30px;
+    }
+
+ 
+    .banner-cont-inn {
+
+        width: 95%;
+    }
+
+    section#home-banner .banner-cont-inn .ban-btn {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+ 
+
+ 
+
+    .subscribe {
+        padding: 30px;
+    }
+
+    aside.col-lg-4.abt-us-foot p,
+    .news-foot-cont p {
+
+        font-size: 14px;
+    }
+
+    ul.service-inn-foot-list-items li span {
+        font-size: 14px;
+    }
+
+    .have-inn,
+    .need-inn {
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+    }
+
+    .need-have {
+        padding: 0 !important;
+    }
+
+    .have-inn h3,
+    .need-inn h3 {
+        margin-bottom: 1rem;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .need-have-wrap {
+        top: -115px;
+    }
+
+    .client-img {
+        margin: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .client-sec {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .service-feed-foot {
+
+        margin: 1rem 0;
+    }
+
+    aside.col-lg-4.service-foot {
+        margin: 2rem 0 0;
+    }
+
+    h2.title {
+        font-size: 20px !important;
+    }
+
+    .banner-content h1 {
+        text-align: center; 
+        font-size: calc(60px - 20px) !important;
+        line-height: 50px;
+    }
+  
+    
+
+    .intractive-form {
+        padding: 90px 0rem 2rem !important
+    }
+
+    tr td.tg-0lax:first-child {
+        width: 110px !important;
+    }
+
+    input#gform_submit_button_1 {
+        background: orange !important;
+        color: #fff !important;
+        border: none !important;
+        height: unset !IMPORTANT;
+        padding: 5px 18px !important;
+        border-radius: 3px !important;
+        box-shadow: 0px 1px 3px 0px #8888888f !important;
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .register-btn.text-center {
+        margin: 1rem;
+        text-align: center !important;
+    }
+
+    div#map-locat-con {
+        height: 400px;
+    }
+
+    .row.cont-map-form.m-0.ml-5 {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .intractive-form{
+        width: 80% !important;
+    }
+    select#input_10_9_3,
+    select#input_5_10_3,
+    select#input_8_9_3 {
+        height: 48px !important;
+    }
+    .copyright-text {
+        margin-bottom: 12px;
+    }
+    .partner-item h3 a {
+        font-size: 18px !important;
+    }
+
+    section#work-shop-wrap {
+        padding: 60px 0 0;
+    }
+    section#farm-partner-wrap .farm-cont-1 p {
+        line-height: 26px;
+        text-align: justify;
+        font-weight: 600;
+    }
+    section#farm-partner-wrap .farm-cont-1 p, #farm-careers-wrap .farm-cont-1 p, section#organic-con-wrapper .farm-cont-1.aos-init.aos-animate p {
+        line-height: 28px !important;
+             text-align: justify !important;
+
+    }
+
+    section.popular-service h2.title {
+        font-size: 25px !important;
+    }
+    .pop-up-video iframe.__youtube_prefs__,
+    .pop-up-video iframe#_ytid_36476, 
+    .pop-up-video iframe {
+        height: 250px !important;
+        width: 100%;
+    }
+
+    span.buy-ban{
+        margin-bottom: 1rem !important;
+    }
+
+    section#Farm-wrap .banner-img::before, section#content-com-wrap .banner-img::before {
+        content: '';
+        background-image: linear-gradient(-180deg, rgb(34 34 34 / 51%) 0%, rgb(34 34 34 / 66%) 100%) !important;
+    }
+    .banner-content h1, h1 span.buy-ban, .banner-cont-inn h1 {
+        font-size: calc(50px - 20px) !important;
+    }
+}
+
+@media(max-width:340px) {
+    a.btn-lat {
+        margin: 1rem 1rem 0 0 !important;
+    }
+}

@@ -52,9 +52,9 @@ function Header() {
         {/* Logo Section */}
         <div
           className={`mr-2 p-1 absolute bg-white transition-transform duration-300 ease-in-out flex items-center ${
-            scrolling
-              ? "scale-110 ease-in w-[90px]  h-[70px] sm:w-[70px] sm:h-[70px]"
-              : "sm:top-[30px] ease-in-out sm:left-[50px] w-[90px]  h-[70px] scale-100 sm:w-[180px] sm:h-[180px] rounded-xl shadow-custom-hover shadow-custom"
+            scrolling|| window.innerWidth <= 768
+              ? "scale-110 ease-in w-[90px]  h-[70px] sm:w-[70px] sm:h-[70px]  md:w-[70px] md:h-[70px] "
+              : "sm:top-[30px] ease-in-out sm:left-[50px] w-[90px]  h-[70px] scale-100  lg:w-[180px] lg:h-[180px] rounded-xl shadow-custom-hover shadow-custom   "
           }`}
         >
           <img

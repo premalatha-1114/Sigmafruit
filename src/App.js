@@ -18,6 +18,7 @@ import Patnerwithus from "./Component/Patnerwithus/Patnerwithus";
 import Careers from "./Component/Careers/Careers";
 import Contactus from "./Component/Contactus/Contactus";
 import Homepage from "./pages/HomePage/Homepage";
+import Statistics from "./Component/HomeBanner/Statistics";
 
 function App() {
   return (
@@ -37,7 +38,12 @@ function App() {
         <Route path="/partner-with-us" element={<Patnerwithus />}></Route>
         <Route path="/careers" element={<Careers />}></Route>
         <Route path="/contact-us" element={<Contactus />}></Route>
-      </Routes>
+        <Route path="/farm-visit" element={<Aboutus/>}></Route>
+        <Route path="/farm-cafe" element={<Aboutus/>}></Route>
+        <Route path="/workshops" element={<Aboutus/>}></Route>
+        <Route path="/our-produce" element={<Aboutus/>}></Route>
+   </Routes>
+   <Statistics/>
     </div>
   );
 }
