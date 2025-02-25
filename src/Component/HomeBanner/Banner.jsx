@@ -10,6 +10,7 @@ import Buttons from "../button page/Buttons";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
+
 function Banner() {
   const [isAnimating, setIsAnimating] = useState(false);
 
@@ -114,6 +115,7 @@ function Banner() {
       title: "Farm Life Experience at its Best",
       description: "Schedule a visit with your loved one",
       buttonText: "Visit",
+
       aos: "fade-up",
     },
     {
@@ -146,9 +148,9 @@ function Banner() {
           {slides.map((slide, index) => (
             <div
               key={index}
-              className="relative w-full h-[500px] rounded-lg overflow-hidden"
+              className="relative w-full h-[500px] rounded-lg overflow-hidden "
             >
-              <div className="absolute inset-0 before:content-[''] before:absolute before:inset-0 before:bg-gradient-to-b before:from-[rgba(34,34,34,0.75)] before:to-[rgba(34,34,34,0.45)] before:z-10 rounded-lg"></div>
+              <div className="absolute inset-0 before:content-[''] before:absolute before:inset-0 before:bg-gradient-to-b before:from-[rgba(34,34,34,0.75)] before:to-[rgba(34,34,34,0.45)] before:z-10 rounded-lg "></div>
               <img
                 src={slide.img}
                 className="w-full h-full object-cover"
