@@ -27,7 +27,7 @@
     "react-slick": "^0.30.3",
     "slick-carousel": "^1.8.1",
     "styled-components": "^6.1.15",
-    "swiper": "^11.2.4",
+    "swiper": "^11.2.6",
     "typeface-dancing-script": "^1.1.13",
     "web-vitals": "^2.1.4"
   },

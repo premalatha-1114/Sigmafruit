@@ -1,0 +1,21 @@
+/* Custom Swiper pagination styles */
+.swiper-pagination {
+    bottom: 10px; /* Position of the pagination */
+  }
+  
+  .swiper-pagination-bullet {
+    width: 12px; /* Dot size */
+    height: 12px; /* Dot size */
+    background: #ccc; /* Default background color */
+    opacity: 1; /* Ensure opacity is set */
+    transition: background 0.3s ease; /* Smooth transition for active state */
+  }
+  
+  .swiper-pagination-bullet-active {
+    background: brown; /* Active dot color */
+  }
+  
+
+  .Statisticsshadow{
+    box-shadow: rgb(136, 136, 136) 0px 1px 3px 0px;
+  }
